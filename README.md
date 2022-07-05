@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Email:dai2008@126.com.
+My Email: dai2008@126.com.
 
 <a href="https://github.com/Daijianghao">
   <img src="https://github-readme-stats.vercel.app/api?username=Daijianghao&show_icons=true" />
