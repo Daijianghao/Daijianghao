@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 My Email: dai2008@126.com.
 
+### Developing
+
+[class-tools/Web-Class-Helper](https://github.com/class-tools/Web-Class-Helper)
+
+[Daijianghao/Luogu-Practice-Spider](https://github.com/Daijianghao/Luogu-Practice-Spider)
+
 <a href="https://github.com/Daijianghao">
   <img src="https://github-readme-stats.vercel.app/api?username=Daijianghao&show_icons=true" />
 </a>
